@@ -168,6 +168,8 @@ __Total number of questions:__ 331
     - Are there alternatives?
 3. How do we enforce compliance? [[doc]](https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/)
 
+([Demo Different component](https://www.youtube.com/watch?v=2sAlERRSBDk))
+
 # 02 - Design a compute solution ([Learn module](https://docs.microsoft.com/en-us/learn/modules/design-compute-solution/))
 
 ![whiteboard](/whiteboards/02-compute.png)
