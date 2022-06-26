@@ -281,7 +281,9 @@ __Total number of questions:__ 331
 12. What is the difference between time-based retention policies and legal hold policies? [[doc]](https://docs.microsoft.com/en-us/azure/storage/blobs/immutable-time-based-retention-policy-overview) [[doc]](https://docs.microsoft.com/en-us/azure/storage/blobs/immutable-legal-hold-overview)
 13. Which data sets and policies would be most helpful in your organization?
 
-#### Demo - Storage Account ([Vid](https://www.youtube.com/watch?v=yaRJ6XHLv6Y))
+#### Demo - Storage Account ([Vid](https://www.youtube.com/watch?v=gFbVq9C-qJ8))
+#### Demo - Storage Access through private link ([Vid](https://www.youtube.com/watch?v=gWtjHINHYP0))
+#### Demo - Storage Explorer ([Vid](https://www.youtube.com/watch?v=yaRJ6XHLv6Y))
 
 ## Azure Files ([Unit](https://docs.microsoft.com/en-us/learn/modules/design-data-storage-solution-for-non-relational-data/6-design-for-azure-files))
 
