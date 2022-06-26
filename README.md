@@ -94,6 +94,8 @@ __Total number of questions:__ 331
 8. I don't want anyone to delete my central Azure Firewall. What can I do? [[doc]](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources?tabs=json)
     - Deleting my Azure Firewall would make my whole environment pretty useless!
 
+[[Resource Group Demo]](https://www.youtube.com/watch?v=JTyZKPgmNkA)
+
 ## Resource tags? ([Unit](https://docs.microsoft.com/en-us/learn/modules/design-governance/6-design-for-resource-tags))
 
 ![whiteboard](/whiteboards/01-resource-tags.png)
